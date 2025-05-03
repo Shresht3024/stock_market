@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.StockOnboarding" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#8663E1</item>
+        <item name="colorPrimaryVariant">#5F3DC4</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:windowBackground">#0A071B</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:navigationBarColor">#0A071B</item>
+        <item name="android:statusBarColor">#0A071B</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>

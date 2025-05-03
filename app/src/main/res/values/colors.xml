@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#8663E1</color>
+    <color name="background_dark">#0A071B</color>
+    <color name="text_light">#CCCCCC</color>
+    <color name="login_page_mainbackcolor">#1d1b2c</color>
+
+</resources>
